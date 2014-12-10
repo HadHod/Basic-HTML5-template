@@ -1,4 +1,4 @@
-Basic-HTML5-template
-====================
+Basic-HTML5-template version 1.0
+================================
 
-Basic HTML5 template for everyone
+It's basic template for HTML5 application
