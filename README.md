@@ -1,4 +1,4 @@
-Basic-HTML5-template version 1.1
-================================
+Basic HTML5 template
+====================
 
-It's basic template for HTML5 application
+It's basic HTML5 template for tests with UI.
